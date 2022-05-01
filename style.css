@@ -1,6 +1,7 @@
 body
 {
 	margin: 0px;
-	background-image: url(home/Fond.jpg);
+	background-image: url(home/fond1.jpg);
+	background-size: cover;
 }
 

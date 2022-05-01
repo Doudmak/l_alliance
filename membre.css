@@ -1,0 +1,55 @@
+body
+{
+	margin: 0px;
+	background-image: url(home/Fond.jpg);
+}
+
+.flex_title
+{
+	display: flex;
+}
+
+.title
+{
+	margin-top: 35px ;
+	margin-bottom: 35px;
+	margin-left: 5px;
+	color : lightgrey;
+	font-family: calibri;
+	font-size: 17px;
+}
+
+.bloc_card
+{
+	display: flex;
+}
+
+.card
+{
+	width: 250px;
+	height: 250px;
+	background-color: #171A21;
+	margin: 10px;
+	border-radius: 15px;
+}
+.description
+{
+	font-family: calibri;
+	color:  lightgrey;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.flex
+{
+	display: flex;
+	justify-content: center;
+}
+
+img
+{	
+	margin-top: 20px;
+	border-radius: 50%;
+	width: 150px;
+}
