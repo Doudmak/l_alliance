@@ -1,0 +1,74 @@
+body
+{
+	margin: 0px;
+	background-image: url(event/fond.jpg);
+}
+.flex_title
+{
+	display: flex;
+	justify-content: center;
+}
+
+#title h1
+{
+	margin-top: 90px ;
+	margin-bottom: 30px;
+	color : white;
+	font-family: calibri;
+}
+
+#bloc_card
+{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+.card
+{
+	background-color: #171A21;
+	margin-bottom: 30px;
+	width: 600px;
+	height: 200px;
+	border-radius: 15px;
+	display: flex;
+	align-items: center;
+
+}
+
+.img img
+{
+	width: 150px;
+	border-radius: 50%;
+	margin-right: 15px;
+	margin-left: 15px;
+}
+
+#card_in
+{
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+	width: 460px;
+	height: 200px;
+}
+
+.description
+{
+	padding-left: 25px;
+	padding-right: 25px;
+	text-align: justify;
+	font-family: calibri;
+	color:lightgrey;
+}
+
+.flex_title h2
+{
+	color: white;
+	font-family: calibri;
+}
+
+a
+{
+	text-decoration: none;
+}
