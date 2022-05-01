@@ -27,3 +27,8 @@ nav ul li a
 	font-size: 20px;
 	font-family: calibri;
 }
+
+li
+{
+	list-style: none;
+}
